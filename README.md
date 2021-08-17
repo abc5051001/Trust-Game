@@ -1,10 +1,10 @@
 # Trust-Game
-<h>Two players will face each other. They each decide independently to "cooperate" or "cheat". If they both cooperated, they each win two points. If they both cheated, nobody wins anything. If one cooperates and one cheats, the cheater gets +3 and the cooperator loses a point.<h>
+<h>Two players will face each other. They each decide independently to "cooperate" or "cheat". If they both cooperated, they each win two points. If they both cheated, nobody wins anything. If one cooperates and one cheats, the cheater gets +3 and the cooperator loses a point.</h>
   
 <p>One turn is defined as each player making a choice, and winning or losing some points as a result.
 Shared history against this player is available to players, and they may use this to guide their decision.
 It costs one point to play a turn. A player's points may go negative, and yet they can still spend/lose
-more points.
+more points.</p>
 • One game is defined as two players playing multiple turns together. Their increasingly shared history
 will certainly affect their chosen behavior: will they keep cooperating even if their opponent doesn't?
 Will they hold grudges? Between games, players will reset their history; perhaps this new person is
