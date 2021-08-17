@@ -20,7 +20,7 @@ that survived.</p>
 <p>Kinds of Players
 There are five kinds of players in our version of the tournament.</p>
 <p>• <b>previous</b> starts by cooperating, then always copies the previous move of their opponent.</p>
-<p>• <b>friend</b> always cooperates, no matter what. May be vulnerable to abuse!</p>
+<p>• <b>friend</b> always cooperates, no matter what.</p>
 <p>• <b>cheater</b> never cooperates.</p>
 <p>• <b>grudger</b> cooperates as long as the opponent does, but after one non-cooperation, never
 cooperates ever again with this opponent.</p>
