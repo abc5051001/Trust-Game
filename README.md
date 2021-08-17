@@ -1,5 +1,8 @@
 # Trust-Game
-<h>Two players will face each other. They each decide independently to "cooperate" or "cheat". If they both cooperated, they each win two points. If they both cheated, nobody wins anything. If one cooperates and one cheats, the cheater gets +3 and the cooperator loses a point.</h>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h1>Two players will face each other. They each decide independently to "cooperate" or "cheat". If they both cooperated, they each win two points. If they both cheated, nobody wins anything. If one cooperates and one cheats, the cheater gets +3 and the cooperator loses a point.</h1>
   
 <p>One turn is defined as each player making a choice, and winning or losing some points as a result.
 Shared history against this player is available to players, and they may use this to guide their decision.
